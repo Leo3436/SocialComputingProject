@@ -1,0 +1,1930 @@
+[
+    {
+        "id": 14226794,
+        "name": "Adam Bermingham",
+        "screen_name": "adambermingham",
+        "location": "Dublin, Ireland",
+        "description": "Head of AI at Drop Kitchen",
+        "followers_count": 751
+    },
+    {
+        "id": 2436212766,
+        "name": "Drop",
+        "screen_name": "dropkitchen",
+        "location": "San Francisco • Dublin",
+        "description": "Connecting the world's recipes and appliances.",
+        "followers_count": 2715
+    },
+    {
+        "id": 1527607790,
+        "name": "Ida Mele",
+        "screen_name": "ida_mele",
+        "location": "",
+        "description": "Researcher @ IASI-CNR, Rome, Italy",
+        "followers_count": 162
+    },
+    {
+        "id": 1073974163704958976,
+        "name": "Ahmad Beirami",
+        "screen_name": "abeirami",
+        "location": "Menlo Park, CA",
+        "description": "@facebookai researcher | ex-{@EA, @MIT, @Harvard, @DukeU} | @GeorgiaTech PhD | opinions my own",
+        "followers_count": 512
+    },
+    {
+        "id": 13759132,
+        "name": "Stephen Roller",
+        "screen_name": "stephenroller",
+        "location": "NYC",
+        "description": "NLP researcher at @FacebookAI. Tech lead of @parlai_parley. Developer of chatbots that like tacos.",
+        "followers_count": 1501
+    },
+    {
+        "id": 841437024,
+        "name": "Olga Kairova",
+        "screen_name": "Olga_Kairova",
+        "location": "Москва, Россия",
+        "description": "https://t.co/RjlBBNDutA - open source conversational AI to improve the way people work, play and learn",
+        "followers_count": 55
+    },
+    {
+        "id": 18850305,
+        "name": "Zachary Lipton",
+        "screen_name": "zacharylipton",
+        "location": "Pittsburgh, PA",
+        "description": "Machine Learnist. Asst Prof of OR&ML—@carnegiemellon, PI—@acmi_lab, Founder—https://t.co/QDAZ7VNZr9, Science—@awscloud, Advisor—@AbridgeHQ,🎷,Ally👩‍🔬🌍🌈🕍🕌",
+        "followers_count": 35600
+    },
+    {
+        "id": 422388777,
+        "name": "Nathan Benaich",
+        "screen_name": "nathanbenaich",
+        "location": "the interwebs",
+        "description": "AI-first investing @airstreet, running @raais @londonai @parisai communities, VP @pointninecap, co-author @stateofaireport, biologist, foodie, et al. ☕️🤓👾🐶",
+        "followers_count": 26697
+    },
+    {
+        "id": 34376328,
+        "name": "Tal Linzen",
+        "screen_name": "tallinzen",
+        "location": "Brooklyn, NY",
+        "description": "Tweets about language, computers and minds, faculty @nyuling and @NYUDataScience, he/him. Emails are better than DMs.",
+        "followers_count": 7738
+    },
+    {
+        "id": 3025082120,
+        "name": "Shayne Longpre",
+        "screen_name": "ShayneRedford",
+        "location": "Seattle",
+        "description": "Apple ML Applied Scientist. Stanford CS '18. 🇨🇦 \nInterests: NLP, neural reading comprehension, antitrust, ethics in technology. (he/him)",
+        "followers_count": 148
+    },
+    {
+        "id": 262365030,
+        "name": "Atul Butte",
+        "screen_name": "atulbutte",
+        "location": "San Francisco, CA",
+        "description": "Chief Data Scientist @UofCAHealth・Director, Bakar Computational Health Sci Institute @UCSF_BCHSI・Distinguished Prof @UCSF・Entrepreneur・He/him・Opinions ⇨ my own",
+        "followers_count": 26435
+    },
+    {
+        "id": 2869829804,
+        "name": "Marina Sirota",
+        "screen_name": "msirota84",
+        "location": "San Francisco, CA",
+        "description": "Bioinformatician, data scientist, researcher",
+        "followers_count": 524
+    },
+    {
+        "id": 17944633,
+        "name": "Nicholas Tatonetti",
+        "screen_name": "nicktatonetti",
+        "location": "New York, NY",
+        "description": "equestrian and scientist; creative, but not artistic. prof @columbia using data to make drugs better. half of @nickandnoah",
+        "followers_count": 1806
+    },
+    {
+        "id": 68746721,
+        "name": "François Chollet",
+        "screen_name": "fchollet",
+        "location": "United States",
+        "description": "Deep learning @google. Creator of Keras. Author of 'Deep Learning with Python'. Opinions are my own.",
+        "followers_count": 220149
+    },
+    {
+        "id": 829115622,
+        "name": "Liu Yang",
+        "screen_name": "liuyang_irnlp",
+        "location": "USA",
+        "description": "Software Engineer/ Researcher of IR/NLP/ML at Google Research, UMass alumnus. Research Interests:  Information Retrieval, NLP,  Text Mining and Machine Learning",
+        "followers_count": 385
+    },
+    {
+        "id": 911297187664949248,
+        "name": "Jeff Dean (@🏡)",
+        "screen_name": "JeffDean",
+        "location": "",
+        "description": "Senior Fellow & SVP, Google AI (Research and Health).  Co-designer/implementor of software systems like @TensorFlow, MapReduce, Bigtable, Spanner, ..",
+        "followers_count": 175749
+    },
+    {
+        "id": 254107028,
+        "name": "TensorFlow",
+        "screen_name": "TensorFlow",
+        "location": "Mountain View, CA",
+        "description": "TensorFlow is a fast, flexible, and scalable open-source machine learning library for research and production.",
+        "followers_count": 254956
+    },
+    {
+        "id": 776585502606721024,
+        "name": "PyTorch",
+        "screen_name": "PyTorch",
+        "location": "",
+        "description": "Tensors and neural networks in Python with strong hardware acceleration\n\nhttps://t.co/fPLmVVicG5",
+        "followers_count": 125847
+    },
+    {
+        "id": 1059680847425527808,
+        "name": "The Stanford AI Lab",
+        "screen_name": "StanfordAILab",
+        "location": "Stanford, CA",
+        "description": "The portal for members of the Stanford Artificial Intelligence Laboratory (SAIL) to share their latest news, research, and more! ⛵️🤖",
+        "followers_count": 28118
+    },
+    {
+        "id": 799830497065050112,
+        "name": "Spotify Research",
+        "screen_name": "SpotifyResearch",
+        "location": "",
+        "description": "Spreading the good work of the good people from @Spotify's #research guild.",
+        "followers_count": 4581
+    },
+    {
+        "id": 4829954289,
+        "name": "BIRDS Project",
+        "screen_name": "birdsproject",
+        "location": "",
+        "description": "BIRDS MSCA RISE 2015 Project (H2020 EU project MSCA GA No 690941), Bioinformatics and Information Retrieval Data Structures Analysis and Design",
+        "followers_count": 129
+    },
+    {
+        "id": 38048603,
+        "name": "Jim Huang",
+        "screen_name": "ccjimhuang",
+        "location": "Sunnyvale, CA",
+        "description": "",
+        "followers_count": 24
+    },
+    {
+        "id": 904964427161722880,
+        "name": "Christin Kreutz",
+        "screen_name": "kreutzch",
+        "location": "Trier, Germany",
+        "description": "PhD student at @TrierUni. Scientometrics • Recommendation • Graphs • Evaluation",
+        "followers_count": 74
+    },
+    {
+        "id": 172348387,
+        "name": "Haiming Liu",
+        "screen_name": "HaimingLiu1",
+        "location": "",
+        "description": "Senior Lecturer at University of Bedfordshire",
+        "followers_count": 81
+    },
+    {
+        "id": 145578712,
+        "name": "Università degli Studi di Milano",
+        "screen_name": "LaStatale",
+        "location": "Milano",
+        "description": "Il 5x1000 alla Statale è un investimento sui giovani e sulla libera ricerca",
+        "followers_count": 22216
+    },
+    {
+        "id": 253099487,
+        "name": "Politecnico Milano",
+        "screen_name": "polimi",
+        "location": "Milano",
+        "description": "Since 1863. Technology, Creativity, Culture",
+        "followers_count": 37246
+    },
+    {
+        "id": 166089683,
+        "name": "Milano-Bicocca",
+        "screen_name": "unimib",
+        "location": "Milano, Italia",
+        "description": "Università degli Studi di Milano-Bicocca",
+        "followers_count": 20140
+    },
+    {
+        "id": 1221367609,
+        "name": "Ася Фадеева",
+        "screen_name": "court_conte",
+        "location": "",
+        "description": "",
+        "followers_count": 48
+    },
+    {
+        "id": 245907225,
+        "name": "Angel Castellanos",
+        "screen_name": "AcastellanosGlz",
+        "location": "",
+        "description": "Das Beste oder nichts",
+        "followers_count": 76
+    },
+    {
+        "id": 1067999287,
+        "name": "Elena Treshcheva",
+        "screen_name": "_etres",
+        "location": "",
+        "description": "Business Development Manager, Exactpro Systems",
+        "followers_count": 70
+    },
+    {
+        "id": 45099415,
+        "name": "José Manuel Gómez",
+        "screen_name": "josemanuelgp",
+        "location": "",
+        "description": "",
+        "followers_count": 321
+    },
+    {
+        "id": 23666107,
+        "name": "Alan Kohler",
+        "screen_name": "AlanKohler",
+        "location": "Melbourne",
+        "description": "Editor in Chief of Eureka Report, Business Editor at Large of The Australian, finance guy on the ABC news and Adjunct Professor at Victoria University",
+        "followers_count": 115790
+    },
+    {
+        "id": 1308409993213943809,
+        "name": "COST Action Distributed Knowledge Graphs",
+        "screen_name": "cost_dkg",
+        "location": "Europe",
+        "description": "@costprogramme Action CA#19134 on Distributed #KnowledgeGraphs",
+        "followers_count": 65
+    },
+    {
+        "id": 225110274,
+        "name": "Jessica Kegu",
+        "screen_name": "jessicakegu",
+        "location": "New York, NY",
+        "description": "investigative team @CBSNews // DMs are open",
+        "followers_count": 230
+    },
+    {
+        "id": 359831209,
+        "name": "Timnit Gebru",
+        "screen_name": "timnitGebru",
+        "location": "",
+        "description": "she/her",
+        "followers_count": 24177
+    },
+    {
+        "id": 1190461842922995712,
+        "name": "CIKM 2021",
+        "screen_name": "CIKM2021",
+        "location": "Gold Coast, QLD, Australia",
+        "description": "ACM CIKM 2021 conference\n1-5 Nov 2021",
+        "followers_count": 11
+    },
+    {
+        "id": 204123892,
+        "name": "Carlo Curino",
+        "screen_name": "carlo_curino",
+        "location": "Redmond, WA",
+        "description": "Principal Scientist Lead at Microsoft, Apache Hadoop PMC --- He/Him",
+        "followers_count": 938
+    },
+    {
+        "id": 2807461219,
+        "name": "Tal Schuster",
+        "screen_name": "TalSchuster",
+        "location": "Cambridge, MA",
+        "description": "PhD candidate at @MIT_CSAIL. Research intern at @MSFTResearch \n\n* Machine learning \n\n* NLP (@MITNLP)\n\n* Deep learning for medical applications (@AIHealthMIT)",
+        "followers_count": 368
+    },
+    {
+        "id": 27131901,
+        "name": "Baybars Örsek",
+        "screen_name": "baybarsorsek",
+        "location": "Florida, USA",
+        "description": "Director of the International Fact-Checking Network @factchecknet at @Poynter Institute",
+        "followers_count": 8064
+    },
+    {
+        "id": 228313429,
+        "name": "Christos Christodoulopoulos",
+        "screen_name": "c_christodoulop",
+        "location": "Cambridge, England",
+        "description": "Research scientist at Amazon UK, ex-podcaster, amateur philosopher and musician (amateur takes scope over the conjunction).",
+        "followers_count": 290
+    },
+    {
+        "id": 82541893,
+        "name": "Surya Kallumadi",
+        "screen_name": "kallumadi",
+        "location": "",
+        "description": "Search Scientist. Working at the intersection of Machine learning, Information retrieval, Recommender Systems, Data Mining and User Experience.",
+        "followers_count": 375
+    },
+    {
+        "id": 331080165,
+        "name": "Julia Neidhardt",
+        "screen_name": "j_neidhardt",
+        "location": "Vienna, Austria",
+        "description": "",
+        "followers_count": 175
+    },
+    {
+        "id": 213831533,
+        "name": "Benedikt Loepp",
+        "screen_name": "BenediktLoepp",
+        "location": "Germany",
+        "description": "#RecSys researcher at @UniDue.",
+        "followers_count": 177
+    },
+    {
+        "id": 507824939,
+        "name": "Claudia Perlich",
+        "screen_name": "claudia_perlich",
+        "location": "NYC",
+        "description": "",
+        "followers_count": 3453
+    },
+    {
+        "id": 710492983800569857,
+        "name": "CBRecSys WS",
+        "screen_name": "CBRecSys",
+        "location": "Boston, MA",
+        "description": "Official account of the CBRecSys workshop series - \n3rd International Workshop on New Trends in Content-based Recommender Systems - 15/19 September 2016",
+        "followers_count": 27
+    },
+    {
+        "id": 4893681,
+        "name": "Flavio Martins",
+        "screen_name": "flaviomartins",
+        "location": "Lisbon, Portugal",
+        "description": "Head of Data Science @vohcolab | Researcher @novalincs",
+        "followers_count": 607
+    },
+    {
+        "id": 384978819,
+        "name": "Marc Deisenroth 🏳️‍🌈",
+        "screen_name": "mpd37",
+        "location": "University College London",
+        "description": "Data-efficient machine learning and autonomous systems",
+        "followers_count": 14018
+    },
+    {
+        "id": 29843511,
+        "name": "Nando de Freitas",
+        "screen_name": "NandoDF",
+        "location": "London, England",
+        "description": "I research intelligence to understand what we are, and to harness it wisely. I work at DeepMind and with CIFAR. Before, I was a UBC and Oxford professor.",
+        "followers_count": 82081
+    },
+    {
+        "id": 3916694415,
+        "name": "TREC OpenSearch",
+        "screen_name": "trecopensearch",
+        "location": "",
+        "description": "Academic Search Edition.\nEvaluated on real users, on real search engines.\nTweets and coordination by @krisztianbalog and @anneschuth",
+        "followers_count": 400
+    },
+    {
+        "id": 476582730,
+        "name": "Shakir Mohamed",
+        "screen_name": "shakir_za",
+        "location": "London",
+        "description": "Towards the Intelligent Machinery of Grace. Research Scientist @DeepMind. Strengthening African ML @DeepIndaba. He/Him. South African 🇿🇦🏳️‍🌈🌍",
+        "followers_count": 38051
+    },
+    {
+        "id": 14909989,
+        "name": "Bill Hersh",
+        "screen_name": "williamhersh",
+        "location": "Portland, OR, USA",
+        "description": "Professor and Chair, Department of Medical Informatics & Clinical Epidemiology, Oregon Health & Science University",
+        "followers_count": 2890
+    },
+    {
+        "id": 65915718,
+        "name": "Hamed Zamani",
+        "screen_name": "HamedZamani",
+        "location": "Amherst, MA",
+        "description": "Asst. Prof. @UMassCS. Associate Director of the Center for Intelligent Information Retrieval (CIIR). Ex-Researcher at Microsoft. Interested in IR, RecSys & ML.",
+        "followers_count": 1808
+    },
+    {
+        "id": 18874262,
+        "name": "Praveen Chandar",
+        "screen_name": "pchandarr",
+        "location": "New York, NY",
+        "description": "Researcher at Spotify  -\ninterested in  user modeling, IR, NLP & ML",
+        "followers_count": 738
+    },
+    {
+        "id": 101045085,
+        "name": "Faegheh Hasibi",
+        "screen_name": "fhasibi",
+        "location": "Nijmegen, Nederland",
+        "description": "Information Retrieval Researcher, Assistant Professor at Radboud University٫ A mom",
+        "followers_count": 589
+    },
+    {
+        "id": 3363584909,
+        "name": "Judea Pearl",
+        "screen_name": "yudapearl",
+        "location": "",
+        "description": "Student of causal inference, human reasoning, and history of ideas, all viewed through the sharp lens of artificial intelligence.",
+        "followers_count": 38334
+    },
+    {
+        "id": 1280838371682779136,
+        "name": "Matteo",
+        "screen_name": "corsi_mat",
+        "location": "",
+        "description": "PhD student at @tudelft - IR evaluation",
+        "followers_count": 21
+    },
+    {
+        "id": 3061580480,
+        "name": "Guillaume Salha",
+        "screen_name": "GuillaumeSalha",
+        "location": "Paris, France",
+        "description": "Research Scientist @Deezer - Ph.D. Candidate in Machine Learning @Polytechnique - Interested in Graph Neural Nets and Music Recommendation",
+        "followers_count": 679
+    },
+    {
+        "id": 2190533245,
+        "name": "ACM SIGIR",
+        "screen_name": "ACMSIGIR",
+        "location": "",
+        "description": "",
+        "followers_count": 1356
+    },
+    {
+        "id": 2527017636,
+        "name": "Thomas Höllt",
+        "screen_name": "ThomasHollt",
+        "location": "Delft, Nederland",
+        "description": "Assistant Professor for Visualization @ TU Delft.\nFocus on bio-/medical applications.\nCytosplore Developer https://t.co/56Sp2e581Z",
+        "followers_count": 303
+    },
+    {
+        "id": 19659370,
+        "name": "Gianluca Demartini",
+        "screen_name": "eglu81",
+        "location": "Brisbane, Queensland",
+        "description": "Associate Professor in #datascience at @UQ_EAIT working on human-in-the-loop #AI, #bias, #fakenews, and #bigdata analytics",
+        "followers_count": 540
+    },
+    {
+        "id": 2803587655,
+        "name": "Andrus Ansip",
+        "screen_name": "Ansip_EU",
+        "location": "",
+        "description": "Member of European Parliament, former European Commission Vice-President for #DigitalSingleMarket and Estonian Prime Minister 2005-2014",
+        "followers_count": 52186
+    },
+    {
+        "id": 3304471,
+        "name": "Maarten de Rijke",
+        "screen_name": "mdr",
+        "location": "",
+        "description": "University Professor AI & IR at University of Amsterdam • Director at Innovation Center for AI • Vice President Personalization & Relevance at Ahold Delhaize",
+        "followers_count": 3027
+    },
+    {
+        "id": 17157367,
+        "name": "Ian Soboroff",
+        "screen_name": "ian_soboroff",
+        "location": "",
+        "description": "TREC, information retrieval, test collections, search engines, social media search",
+        "followers_count": 2711
+    },
+    {
+        "id": 44973000,
+        "name": "Jaime Teevan",
+        "screen_name": "jteevan",
+        "location": "Pacific Northwest",
+        "description": "Chief Scientist at Microsoft. Professor at UW. Mother to four wild boys. #AI #HCI #Productivity #FutureOfWork",
+        "followers_count": 4400
+    },
+    {
+        "id": 115091858,
+        "name": "Katja Hofmann",
+        "screen_name": "katjahofmann",
+        "location": "Cambridge, UK",
+        "description": "Principal Researcher at Microsoft Research. Reinforcement learning and games. She/her.",
+        "followers_count": 5172
+    },
+    {
+        "id": 1480809193,
+        "name": "SAP Big Data",
+        "screen_name": "SAPBigData",
+        "location": "",
+        "description": "@SAPBigData has moved to @SAPInMemory. Same conversation, different name. Come check us out.",
+        "followers_count": 2709
+    },
+    {
+        "id": 492423876,
+        "name": "John Grant",
+        "screen_name": "jhngrant",
+        "location": "North West, England",
+        "description": "Following time's arrow, the future of work, AI, lifelong learning. Founder @ITJobsWatch",
+        "followers_count": 784
+    },
+    {
+        "id": 156204739,
+        "name": "César de Pablo",
+        "screen_name": "zdepablo",
+        "location": "Mad City",
+        "description": "Crunching numbers and letters",
+        "followers_count": 868
+    },
+    {
+        "id": 773353274,
+        "name": "Pierre Murphy",
+        "screen_name": "EnglishforBz",
+        "location": "",
+        "description": "",
+        "followers_count": 5994
+    },
+    {
+        "id": 477030336,
+        "name": "Leon Derczynski",
+        "screen_name": "LeonDerczynski",
+        "location": "Copenhagen, Denmark",
+        "description": "Scientist: Machine learning & language. Assc prof @ITUkbh. British. Humanist. Prev: U.Sheffield, 南航, Aarhus, Иннополис, UC San Diego. I like teslas and research",
+        "followers_count": 3086
+    },
+    {
+        "id": 3233484298,
+        "name": "Year Progress",
+        "screen_name": "year_progress",
+        "location": "UTC",
+        "description": "The only progress bar you'd rather see go slower. Made by @filiphracek.",
+        "followers_count": 459482
+    },
+    {
+        "id": 132646210,
+        "name": "Damiano Spina",
+        "screen_name": "damiano10",
+        "location": "Melbourne, Australia",
+        "description": "PhD in Computer Science. Lecturer at @RMIT, @rmit_csit, @rmit_cidda, @AdmsCentre.\nCamaleão, Capoeira ACDP @ACDP_Australia. Percussionist at @Wombatuque.",
+        "followers_count": 793
+    },
+    {
+        "id": 84005358,
+        "name": "Bo HAN",
+        "screen_name": "BrooklynHAN",
+        "location": "Sydney, New South Wales",
+        "description": "Looking forward to making an impact to this world.",
+        "followers_count": 276
+    },
+    {
+        "id": 3275010456,
+        "name": "Qingyu Chen",
+        "screen_name": "qingyu_qc",
+        "location": "Bethesda, Maryland, USA",
+        "description": "Research on biomedical text mining and information retrieval, medical image analytics, and biocuration. Views are my own.",
+        "followers_count": 147
+    },
+    {
+        "id": 3186520165,
+        "name": "Aaron Zhang",
+        "screen_name": "BigAaron1984",
+        "location": "Australia ",
+        "description": "Just some random dorky teenage TF fan.",
+        "followers_count": 78
+    },
+    {
+        "id": 1890398306,
+        "name": "Belinda Tynan",
+        "screen_name": "minbrt",
+        "location": "Melbourne ",
+        "description": "Deputy Vice Chancellor (Education) and Vice President RMIT",
+        "followers_count": 912
+    },
+    {
+        "id": 59263220,
+        "name": "Bruce Croft",
+        "screen_name": "wbc11",
+        "location": "Amherst",
+        "description": "",
+        "followers_count": 1058
+    },
+    {
+        "id": 1448522389,
+        "name": "James Zhong",
+        "screen_name": "Dr_James_Z",
+        "location": "Melbourne",
+        "description": "PhD of Computer Science specialized in Network Security+Property Developer+Licensed Financial Planner=CEO of Tycoon Global",
+        "followers_count": 27
+    },
+    {
+        "id": 21301362,
+        "name": "What the Hashtag?!",
+        "screen_name": "wthashtag",
+        "location": "Des Moines, Iowa",
+        "description": "The user-editable encyclopedia for hashtags found on Twitter. Follow this acct and send a DM to look up a hashtag.",
+        "followers_count": 2301
+    },
+    {
+        "id": 2290391658,
+        "name": "Defence Science Institute (DSI)",
+        "screen_name": "DSI_VIC",
+        "location": "Melbourne, Victoria",
+        "description": "The DSI actively engages the Australian science and technology community, building defence science research networks, and assembling multi-disciplinary teams.",
+        "followers_count": 431
+    },
+    {
+        "id": 1067024540,
+        "name": "pengfei han",
+        "screen_name": "pengfeihan1",
+        "location": "",
+        "description": "",
+        "followers_count": 8
+    },
+    {
+        "id": 4856696193,
+        "name": "NLP and CSS",
+        "screen_name": "nlpandcss",
+        "location": "",
+        "description": "Workshop day: Friday, Nov 20, 2020!\nTwitter account of the workshop series Natural Language Processing (#nlproc/#NLP) and Computational Social Science",
+        "followers_count": 1009
+    },
+    {
+        "id": 1310568144742895619,
+        "name": "DIR 2020",
+        "screen_name": "DIR_2020",
+        "location": "Antwerp, Belgium",
+        "description": "Dutch-Belgian Information Retrieval Workshop 2020",
+        "followers_count": 93
+    },
+    {
+        "id": 1184080684182364162,
+        "name": "Koen Dercksen",
+        "screen_name": "DercksenKoen",
+        "location": "Nijmegen, Nederland",
+        "description": "PhD candidate in Data Science, at Radboud University Nijmegen.",
+        "followers_count": 58
+    },
+    {
+        "id": 18569397,
+        "name": "Nazila Mathari",
+        "screen_name": "nmathari",
+        "location": "New York, NY",
+        "description": "midwestern new yorker, global citizen, program/product mgr, ex-consultant🤓Tech/Travel/Photography/Music/Books \n@bloomberg formerly @spotify (Views are my own)",
+        "followers_count": 248
+    },
+    {
+        "id": 983304343389720576,
+        "name": "73 Enid Street | Cloudwater London",
+        "screen_name": "73EnidSt",
+        "location": "London, England",
+        "description": "@cloudwaterbrew’s taproom in Bermondsey. Takeaway shop open 12-7pm Weds-Fri & 12-5 Sat-Sun with home delivery available too! https://t.co/KMgM9EQUiK",
+        "followers_count": 2245
+    },
+    {
+        "id": 259206042,
+        "name": "Hannah Peschar Sculpture Garden",
+        "screen_name": "Hannah_Peschar",
+        "location": "Ockley, Surrey",
+        "description": "Established for 37 years, The Hannah Peschar Sculpture Garden exhibits stunning sculpture from all over Europe in a truly magical & unique environment.",
+        "followers_count": 1783
+    },
+    {
+        "id": 2810140122,
+        "name": "Esther Plomp",
+        "screen_name": "PhDToothFAIRy",
+        "location": "The Hague, The Netherlands",
+        "description": "Data Steward/Chaos Fighter @ TU Delft\nDr in isotopes/osteology | she/her\nIs staying out of melee range",
+        "followers_count": 1116
+    },
+    {
+        "id": 2991006255,
+        "name": "Karishma Kaushik, MBBS, MD, PhD, Mom",
+        "screen_name": "KaushikLab",
+        "location": "University of Pune, India",
+        "description": "Assistant Professor / Ramalingaswami Fellow. \nBe the change you want to see in Indian Science 🇮🇳 ! \nTweets my own, no one else dare take credit :) She/Her",
+        "followers_count": 3575
+    },
+    {
+        "id": 904931781597478912,
+        "name": "Nancy Jo, this is Alexis Neiers calling. I’m calli",
+        "screen_name": "l_i_n_d_",
+        "location": "",
+        "description": "",
+        "followers_count": 313
+    },
+    {
+        "id": 197699705,
+        "name": "Mailailuan",
+        "screen_name": "Mailailuan",
+        "location": "Singapore",
+        "description": "Human learning machine learning",
+        "followers_count": 45
+    },
+    {
+        "id": 893484744725467137,
+        "name": "11:11",
+        "screen_name": "11hr11min",
+        "location": "",
+        "description": "Virtual Gallery. 🖼 We do not own any content posted. Sources: @1111_Links | Dm for removal.",
+        "followers_count": 1885920
+    },
+    {
+        "id": 2882916461,
+        "name": "Francesca",
+        "screen_name": "lizzi254",
+        "location": "",
+        "description": "",
+        "followers_count": 48
+    },
+    {
+        "id": 494187789,
+        "name": "lament eli",
+        "screen_name": "elllisonn",
+        "location": "Nord Est",
+        "description": "Posso sembrare simpatica, ma non lo sono.",
+        "followers_count": 195
+    },
+    {
+        "id": 1254150528986120192,
+        "name": "julietajazmin",
+        "screen_name": "julietajazmin__",
+        "location": "",
+        "description": "sta scrivendo...",
+        "followers_count": 25
+    },
+    {
+        "id": 1253272850691129347,
+        "name": "In Italy we don't say",
+        "screen_name": "initalywedonts1",
+        "location": "Milano, Italia",
+        "description": "In Italy we don't say \"Italian is the best language\", we say \"Almeno non siamo francesi\" and I think that's beautiful.\nAdmin: @rebeccacmanzoni",
+        "followers_count": 27803
+    },
+    {
+        "id": 396162704,
+        "name": "Εμπουσα🌙",
+        "screen_name": "Indigo_Moon_",
+        "location": "",
+        "description": "\"A pinagg san binan huvnilack\ntrasus eni eno nak \nab pinagg dee, ab pinagg dee\ntrasus eni eno nak\nquip san binan\"\n\nShe/Her \n\n\n\n\n\n//No DM//",
+        "followers_count": 4516
+    },
+    {
+        "id": 4758119662,
+        "name": "Fede 🌸",
+        "screen_name": "_Fede12_",
+        "location": "",
+        "description": "",
+        "followers_count": 94
+    },
+    {
+        "id": 1239750608,
+        "name": "leti",
+        "screen_name": "notletiziat",
+        "location": "",
+        "description": "non c’è tempo per perdere tempo",
+        "followers_count": 437
+    },
+    {
+        "id": 1169586428533190656,
+        "name": "Aurora D’Antoni",
+        "screen_name": "AntoniAurora",
+        "location": "",
+        "description": "⚡️",
+        "followers_count": 2
+    },
+    {
+        "id": 945103495748882432,
+        "name": "Valentina Fradegrada",
+        "screen_name": "VFradegrada",
+        "location": "",
+        "description": "Follow me not your dreams",
+        "followers_count": 12601
+    },
+    {
+        "id": 14749606,
+        "name": "Dropbox",
+        "screen_name": "Dropbox",
+        "location": "San Francisco, CA",
+        "description": "Our mission is to design a more enlightened way of working. Need support? Head to @DropboxSupport.",
+        "followers_count": 4162807
+    },
+    {
+        "id": 2884570146,
+        "name": "трип",
+        "screen_name": "triprecordings",
+        "location": "",
+        "description": "",
+        "followers_count": 1412
+    },
+    {
+        "id": 2196033343,
+        "name": "Mary☮",
+        "screen_name": "NicolosiMary",
+        "location": "Tarcento, Friuli-Venezia Giuli",
+        "description": "",
+        "followers_count": 179
+    },
+    {
+        "id": 2939684793,
+        "name": "Nicola Boschetti",
+        "screen_name": "nicoboschet",
+        "location": "",
+        "description": "Se puoi sognarlo  puoi farlo!",
+        "followers_count": 35
+    },
+    {
+        "id": 564909345,
+        "name": "Fleksy",
+        "screen_name": "fleksy",
+        "location": "Barcelona / London",
+        "description": "Say it with Fleksy. Try out the fastest keyboard in the world. 🤖 🍏 Available for Android and iOS 👉 https://t.co/3Cl2eHnocw",
+        "followers_count": 39904
+    },
+    {
+        "id": 2238009236,
+        "name": "BRC",
+        "screen_name": "BRCEngineering",
+        "location": "Calgary, AB",
+        "description": "BRC Engineering, Ltd. is a precision manufacturing and mechanical design firm based in Calgary, Alberta, Canada. Major markets include Oil & Gas exploration.",
+        "followers_count": 39
+    },
+    {
+        "id": 2754456843,
+        "name": "Annette",
+        "screen_name": "Annaplac",
+        "location": "",
+        "description": "",
+        "followers_count": 352
+    },
+    {
+        "id": 23477573,
+        "name": "Jah9",
+        "screen_name": "Jah9",
+        "location": "Kingston, JamRock",
+        "description": "New Album “Note to Self” OUT NOW and available for purchase and streaming on all platforms \nhttps://t.co/2vJEo13Myi",
+        "followers_count": 28233
+    },
+    {
+        "id": 24552898,
+        "name": "Anthony B",
+        "screen_name": "RealAnthony_B",
+        "location": "Kingston, Jamaica",
+        "description": "Drop me an e-mail at: : bornfiremusic@gmail.com",
+        "followers_count": 62828
+    },
+    {
+        "id": 82898226,
+        "name": "In Search Of Lost Time",
+        "screen_name": "Protoje",
+        "location": "Jamaica",
+        "description": "My 5th album In Search Of Lost Time available now https://t.co/5ugJ2mYfIk",
+        "followers_count": 90898
+    },
+    {
+        "id": 73359920,
+        "name": "Valentino",
+        "screen_name": "MaisonValentino",
+        "location": "Italia",
+        "description": "Maison Valentino was founded in 1960 by Valentino Garavani & Giancarlo Giammetti. The Creative Direction as of July 7th 2016 was appointed to Pierpaolo Piccioli",
+        "followers_count": 2124368
+    },
+    {
+        "id": 2925137960,
+        "name": "Ildy Modrovich",
+        "screen_name": "Ildymojo",
+        "location": "",
+        "description": "showrunner/writer for Lucifer by day... mom by night.",
+        "followers_count": 91613
+    },
+    {
+        "id": 140233086,
+        "name": "Tricia Helfer",
+        "screen_name": "trutriciahelfer",
+        "location": "California",
+        "description": "Just me and my random thoughts",
+        "followers_count": 225741
+    },
+    {
+        "id": 2482532023,
+        "name": "Scarlett Estevez",
+        "screen_name": "ScarMestevez",
+        "location": "",
+        "description": "Trixie on Netflix’s Lucifer, and Megan in Daddy's Home & Daddy's Home 2,Gwen on season 4 Bunk’d. Parent operated account, Scarlett does not use social media.",
+        "followers_count": 95350
+    },
+    {
+        "id": 278755571,
+        "name": "DB Woodside",
+        "screen_name": "dbwofficial",
+        "location": "",
+        "description": "The Official DB Woodside twitter - 24, Buffy, The Temptations, Parenthood, Single Ladies, Suits, Lucifer -",
+        "followers_count": 213056
+    },
+    {
+        "id": 83367875,
+        "name": "📎Lesley-Ann Have you Voted Brandt",
+        "screen_name": "LesleyAnnBrandt",
+        "location": "Los Angeles, CA",
+        "description": "Made in Cape Town 🇿🇦| Lived & Loved in New Zealand 🇳🇿 |Mazikeen on Lucifer on Netflix Season 5 airing 21 August 2020 | IG @lesleyannbrandt",
+        "followers_count": 344536
+    },
+    {
+        "id": 702413734149537792,
+        "name": "Kevin Alejandro",
+        "screen_name": "kevinmalejandro",
+        "location": "",
+        "description": "Lucifer on NETFLIX baby!!",
+        "followers_count": 216914
+    },
+    {
+        "id": 69049453,
+        "name": "Rachael Harris",
+        "screen_name": "RachaelEHarris",
+        "location": "LA/NY",
+        "description": "Henry & Otto’s mama. My dream is to have dinner with Michael Dorsey & Jeff Slater.",
+        "followers_count": 266781
+    },
+    {
+        "id": 76480547,
+        "name": "Aimee Garcia",
+        "screen_name": "Aimee_Garcia",
+        "location": "Los Angeles",
+        "description": "M.O.D.O.K, Lucifer, Dexter ... blah blah basically professional goofball. Co-founder of @ScrappyHeartPro ❤️ Create the change you wanna see ...",
+        "followers_count": 344232
+    },
+    {
+        "id": 3060210854,
+        "name": "Lucifer",
+        "screen_name": "LuciferNetflix",
+        "location": "",
+        "description": "All hell breaks loose. Season 5 of Lucifer is now streaming on Netflix. Season 6 coming soon.",
+        "followers_count": 821249
+    },
+    {
+        "id": 221230182,
+        "name": "Joshua Fields Millburn",
+        "screen_name": "JFM",
+        "location": "Los Angeles",
+        "description": "@TheMinimalists",
+        "followers_count": 58971
+    },
+    {
+        "id": 31031011,
+        "name": "Ryan Nicodemus",
+        "screen_name": "RyanNicodemus",
+        "location": "Los Angeles, CA",
+        "description": "Mentor. Half of @TheMinimalists. Author, @ETRBook. Producer, @MinimalismFilm. Cofounder, @AsymPress. Not a rapper.",
+        "followers_count": 52076
+    },
+    {
+        "id": 456910776,
+        "name": "The Minimalists",
+        "screen_name": "TheMinimalists",
+        "location": "Los Angeles",
+        "description": "@JFM & @RyanNicodemus help over 20 million people live meaningful lives with less through their website, books, podcast, and films.",
+        "followers_count": 171133
+    },
+    {
+        "id": 529244225,
+        "name": "alice",
+        "screen_name": "atterismo",
+        "location": "",
+        "description": "she/her, procrastinator with a violent fear of failure 🌱",
+        "followers_count": 10199
+    },
+    {
+        "id": 177726908,
+        "name": "Tiziana Barillà",
+        "screen_name": "TizianaBarilla",
+        "location": "ovunque",
+        "description": "giornalista, reggina, libertaria. penso cose, scrivo libri. «non so fare niente in un mondo che sa tutto», per citare il poeta",
+        "followers_count": 2330
+    },
+    {
+        "id": 16958346,
+        "name": "Climate Reality",
+        "screen_name": "ClimateReality",
+        "location": "Washington, DC",
+        "description": "Founded by @algore, we’re bringing the world together to stop climate change and create a healthy and prosperous future powered by clean energy.",
+        "followers_count": 539830
+    },
+    {
+        "id": 15173291,
+        "name": "Earth Institute",
+        "screen_name": "earthinstitute",
+        "location": "New York",
+        "description": "Mobilizing the sciences, education and public policy to achieve a sustainable earth. Located at Columbia University.",
+        "followers_count": 97453
+    },
+    {
+        "id": 1040127511,
+        "name": "CRED",
+        "screen_name": "ColumbiaCRED",
+        "location": "New York, NY",
+        "description": "Center for Research on Environmental Decisions (CRED) | Improving environmental decision making under conditions of uncertainty | @Columbia @earthinstitute",
+        "followers_count": 1168
+    },
+    {
+        "id": 877635902675181568,
+        "name": "FRIENDS",
+        "screen_name": "FriendsTV",
+        "location": "",
+        "description": "Official Friends Twitter account. #Friends25",
+        "followers_count": 734473
+    },
+    {
+        "id": 29083969,
+        "name": "Salil Shetty",
+        "screen_name": "SalilShetty",
+        "location": "",
+        "description": "",
+        "followers_count": 22378
+    },
+    {
+        "id": 1347538994,
+        "name": "Mara De Caro",
+        "screen_name": "cipilidoro",
+        "location": "Libreria ",
+        "description": "La libreria è la mia finestra sul mondo.\n#vitadalibraia",
+        "followers_count": 3970
+    },
+    {
+        "id": 96795790,
+        "name": "Nina Zilli",
+        "screen_name": "ninazilli",
+        "location": "milano",
+        "description": "Testa fra le nuvole e stinchi rotti #workingondisco5",
+        "followers_count": 270072
+    },
+    {
+        "id": 319537857,
+        "name": "TeatroValle Occupato",
+        "screen_name": "valleoccupato",
+        "location": "Roma",
+        "description": "",
+        "followers_count": 31001
+    },
+    {
+        "id": 247210226,
+        "name": "Ala Bianca",
+        "screen_name": "alabiancagroup",
+        "location": "Modena, Italy",
+        "description": "Ala Bianca Group è una compagnia di Edizioni, Produzioni Musicali e Casa Discografica nata in Italia nel 1978. Distribuzione Warner Music Italia.",
+        "followers_count": 991
+    },
+    {
+        "id": 86522812,
+        "name": "Frankie hi-nrg mc",
+        "screen_name": "frankiehinrgmc",
+        "location": "Cremona, Italy",
+        "description": "Solo un rapper, ma di quelli d'una volta.\n\n...",
+        "followers_count": 177286
+    },
+    {
+        "id": 212274129,
+        "name": "Malika Ayane",
+        "screen_name": "malikayane",
+        "location": "Milan-Berlin-Oz",
+        "description": "info@malikaayane.com",
+        "followers_count": 280225
+    },
+    {
+        "id": 422008822,
+        "name": "Daniele Silvestri",
+        "screen_name": "daniesilvestri",
+        "location": "",
+        "description": "Sono nato il 18/8/68 e me ne vanto. E se ho da dire cose me le suono e me le canto. 9 dischi e quasi nessun rimpianto. Nacqui a Roma, ma poi mica ce sto tanto!",
+        "followers_count": 293372
+    },
+    {
+        "id": 424931124,
+        "name": "Marina Rei",
+        "screen_name": "MarinaRei1",
+        "location": "",
+        "description": "Singer- Songwriter - Drummer",
+        "followers_count": 64048
+    },
+    {
+        "id": 100179760,
+        "name": "Levante",
+        "screen_name": "levantecanta",
+        "location": "Catania/Torino",
+        "description": "Inventrice ed esploratrice. 🎙#VERTIGINE il nuovo singolo fuori ora",
+        "followers_count": 42751
+    },
+    {
+        "id": 237703396,
+        "name": "Vinicio Capossela",
+        "screen_name": "vcapossela",
+        "location": "",
+        "description": "Vinicio Capossela (Hannover, 1965) cantore, songwriter, chansonnier, poeta. Compositore di libri e scrittore di canzoni.",
+        "followers_count": 72624
+    },
+    {
+        "id": 1276585698322235392,
+        "name": "Gather",
+        "screen_name": "gather_town",
+        "location": "",
+        "description": "Virtual spaces for more meaningful human connections. Create a space for your community today: https://t.co/hFCD7IlJec",
+        "followers_count": 1022
+    },
+    {
+        "id": 2420016318,
+        "name": "Ryan O'Farrell",
+        "screen_name": "ryanmofarrell",
+        "location": "Washington, DC",
+        "description": "Non-state actors, institutions and conflicts / geolocations and mapping / mostly Africa and the Levant / Ohioan / @SAISHopkins alum",
+        "followers_count": 10371
+    },
+    {
+        "id": 1313137113454579717,
+        "name": "MICROS @ ECIR2021",
+        "screen_name": "micros2021",
+        "location": "Online ",
+        "description": "MICROS@ECIR2021: Mixed-Initiative ConveRsatiOnal Systems Workshop",
+        "followers_count": 17
+    },
+    {
+        "id": 889102208150757376,
+        "name": "Passport Party",
+        "screen_name": "daniel_passport",
+        "location": "Bern",
+        "description": "Blogger and Mapmaker. Exploring border areas, conflict zones, remote places and lonely islands.",
+        "followers_count": 789
+    },
+    {
+        "id": 1308801544326983681,
+        "name": "Liberales Institut",
+        "screen_name": "lib_inst",
+        "location": "Zürich",
+        "description": "Das 1979 gegründete Liberale Institut verfolgt das Ziel der Erforschung freiheitlicher Ideen.",
+        "followers_count": 244
+    },
+    {
+        "id": 16995996,
+        "name": "Ariel Biller 🧊📉🧊",
+        "screen_name": "LSTMeow",
+        "location": "Israel",
+        "description": "Evangelist @ AllegroAI. ClearML enthusiast. Open source, open DM. he/him.",
+        "followers_count": 249
+    },
+    {
+        "id": 80298043,
+        "name": "Switzerland Tourism",
+        "screen_name": "MySwitzerland_e",
+        "location": "Switzerland",
+        "description": "#Switzerland Tourism's official English Twitter account. Follow us for updates and stay #inLOVEwithSWITZERLAND.",
+        "followers_count": 110662
+    },
+    {
+        "id": 19626509,
+        "name": "Guz",
+        "screen_name": "_Guz_",
+        "location": "Holanda (Países Baixos)",
+        "description": "PhD candidate in CS focused on IR/NLP💻\nStreet photographer 📷  He/him\n🇧🇷 🇳🇱",
+        "followers_count": 416
+    },
+    {
+        "id": 74579025,
+        "name": "marialena kyriakidi",
+        "screen_name": "MarialenaKyr",
+        "location": "London, England",
+        "description": "Short bio: I break stuff 👩‍💻🤷‍♀️ @GoogleAI #GoogleResearch / Accepts #coffee donations / Heavily interested in #RecommenderSystems & #shopping ^^",
+        "followers_count": 392
+    },
+    {
+        "id": 14130366,
+        "name": "Sundar Pichai",
+        "screen_name": "sundarpichai",
+        "location": "",
+        "description": "CEO,  Google and Alphabet",
+        "followers_count": 3313348
+    },
+    {
+        "id": 16316886,
+        "name": "Lynne Murphy",
+        "screen_name": "lynneguist",
+        "location": "Brighton, UK",
+        "description": "American immigrant in UK, Linguistics Prof @SussexUni; Separated by a Common Language blog, Prodigal Tongue, US/UK Difference of the Day.\nLikes=bookmarks",
+        "followers_count": 21086
+    },
+    {
+        "id": 76606926,
+        "name": "Michael Roth",
+        "screen_name": "microth",
+        "location": "Stuttgart / Saarland / Barcelona",
+        "description": "Computational linguist, NLP researcher, organizer of LSDSem and Uphill Battles workshops.",
+        "followers_count": 772
+    },
+    {
+        "id": 3745471758,
+        "name": "Liyuan Liu (Lucas)",
+        "screen_name": "LiyuanLucas",
+        "location": "Urbana, IL",
+        "description": "Ph.D student @ UIUC. He/him.",
+        "followers_count": 143
+    },
+    {
+        "id": 17227188,
+        "name": "Laurie Sullivan",
+        "screen_name": "LaurieSullivan",
+        "location": "Orange County, CA",
+        "description": "MediaPost technology geek",
+        "followers_count": 5653
+    },
+    {
+        "id": 23125257,
+        "name": "George Soros",
+        "screen_name": "georgesoros",
+        "location": "New York, NY",
+        "description": "The Official Twitter Page of George Soros, chair of Soros Fund Management LLC and founder of the Open Society Foundations.",
+        "followers_count": 293986
+    },
+    {
+        "id": 970498980403712000,
+        "name": "Quantum Stat",
+        "screen_name": "Quantum_Stat",
+        "location": "New York, NY",
+        "description": "We build NLP for the bravehearts. \n\nModels\nhttps://t.co/tdezZDRrAZ\nDatasets\nhttps://t.co/BFdhl4yhE9\nNotebooks\nhttps://t.co/hujoiR2EuN\n\n😎",
+        "followers_count": 1485
+    },
+    {
+        "id": 16451270,
+        "name": "Central European University",
+        "screen_name": "ceu",
+        "location": "Vienna",
+        "description": "CEU is an English-language, US-accredited university in the heart of Europe with teaching and research in the social sciences, humanities, law and management.",
+        "followers_count": 12252
+    },
+    {
+        "id": 2873928633,
+        "name": "Talking Machines",
+        "screen_name": "TlkngMchns",
+        "location": "",
+        "description": "Human conversation about machine learning. New episodes every two weeks on Thursdays.",
+        "followers_count": 8075
+    },
+    {
+        "id": 848081553368416256,
+        "name": "DeepAI",
+        "screen_name": "Deep__AI",
+        "location": "California",
+        "description": "DeepAI designs and develops advanced machine learning while striving for general intelligence. Power your apps with the latest in machine learning.",
+        "followers_count": 35686
+    },
+    {
+        "id": 819896621655818246,
+        "name": "ZOLLHOF",
+        "screen_name": "zollhofHQ",
+        "location": "Nuremberg, Bavaria",
+        "description": "ZOLLHOF Tech Incubator - We’re a tech family of entrepreneurs, corporate and digital innovators in Germany! #wemakeentrepreneurshiphappen",
+        "followers_count": 1580
+    },
+    {
+        "id": 6457212,
+        "name": "Josh Pasek",
+        "screen_name": "jmping",
+        "location": "Ann Arbor, MI",
+        "description": "Assoc. Prof. in Comm & Media, Political Science, and Data Science at the University of Michigan",
+        "followers_count": 1006
+    },
+    {
+        "id": 761245260,
+        "name": "Anhong Guo",
+        "screen_name": "AnhongGuo",
+        "location": "Pittsburgh, PA",
+        "description": "Assistant professor @UMichCSE starting Jan 2021. PhD from @cmuhcii @scsatcmu. #HCI, #AI, #a11y. Formerly @MSFTResearch, @googleaccess, @Snap, and @GeorgiaTech.",
+        "followers_count": 985
+    },
+    {
+        "id": 414292607,
+        "name": "Xu Wang",
+        "screen_name": "xuwanghci",
+        "location": "Pittsburgh, PA",
+        "description": "assistant prof @UMichCSE starting Jan 2021, #hci, #learningscience, #ai, #aied",
+        "followers_count": 768
+    },
+    {
+        "id": 15147397,
+        "name": "Mike Birbiglia",
+        "screen_name": "birbigs",
+        "location": "",
+        "description": "📚 & 🎥& 🎭. 4 comedy specials on Netflix! Working out my next comedy hour on my \"Working It Out” podcast (new episode with @ramy in LINK!)",
+        "followers_count": 671419
+    },
+    {
+        "id": 813286,
+        "name": "Barack Obama",
+        "screen_name": "BarackObama",
+        "location": "Washington, DC",
+        "description": "Dad, husband, President, citizen.",
+        "followers_count": 126640766
+    },
+    {
+        "id": 486530534,
+        "name": "Scott Page",
+        "screen_name": "Scott_E_Page",
+        "location": "Ann Arbor Michigan",
+        "description": "Scott Page is the John Seely Brown Distinguished University Professor at the University of Michigan and an external faculty member of the Santa Fe Institute.",
+        "followers_count": 6645
+    },
+    {
+        "id": 1085427626716491776,
+        "name": "Franziska Meier",
+        "screen_name": "_kainoa_",
+        "location": "California, USA",
+        "description": "Research Scientist at Facebook AI Research @facebookai. My research focuses on Lifelong Learning for Robotics.",
+        "followers_count": 376
+    },
+    {
+        "id": 18494510,
+        "name": "Shereen Marisol",
+        "screen_name": "RadioMirage",
+        "location": "Los Angeles, California",
+        "description": "Host/Senior Producer: @nprcodeswitch",
+        "followers_count": 35935
+    },
+    {
+        "id": 1117836660,
+        "name": "NPR's Code Switch",
+        "screen_name": "NPRCodeSwitch",
+        "location": "",
+        "description": "Race & identity, remixed | codeswitch@npr.org",
+        "followers_count": 145993
+    },
+    {
+        "id": 87359651,
+        "name": "G.D.",
+        "screen_name": "GeeDee215",
+        "location": "South Philly. BK. DC.",
+        "description": "foot on necks/and i'm taking bets. Co-host, @NPRCodeSwitch. Correspondent, @NPR.",
+        "followers_count": 97140
+    },
+    {
+        "id": 1153289280254558208,
+        "name": "mever",
+        "screen_name": "meverteam",
+        "location": "Thessaloniki, Greece",
+        "description": "A research team working on solutions to the challenge of online media-based disinformation.",
+        "followers_count": 198
+    },
+    {
+        "id": 2199531518,
+        "name": "SNOW Workshop",
+        "screen_name": "snow_workshop",
+        "location": "Perth, Western Australia",
+        "description": "Third Workshop on Social News on the Web @ WWW '17",
+        "followers_count": 129
+    },
+    {
+        "id": 393675585,
+        "name": "Julio Gonzalo",
+        "screen_name": "JulioGonzalo1",
+        "location": "Madrid, Spain",
+        "description": "Researcher in Natural Language Processing, Information Retrieval, Information Access",
+        "followers_count": 1253
+    },
+    {
+        "id": 9180262,
+        "name": "Jan Rybak Benetka",
+        "screen_name": "janbenetka",
+        "location": "Melbourne, Victoria",
+        "description": "Living in Melbourne. Finishing PhD in data science. Cycling, drinking coffee and reading maps in nature. | Intern @ Microsoft Research, USA | PhD @ NTNU, Norway",
+        "followers_count": 220
+    },
+    {
+        "id": 17157367,
+        "name": "Ian Soboroff",
+        "screen_name": "ian_soboroff",
+        "location": "",
+        "description": "TREC, information retrieval, test collections, search engines, social media search",
+        "followers_count": 2711
+    },
+    {
+        "id": 76679840,
+        "name": "TerrierTeam",
+        "screen_name": "TerrierTeam",
+        "location": "Glasgow",
+        "description": "Researchers behind the Terrier open source search engine",
+        "followers_count": 809
+    },
+    {
+        "id": 17078917,
+        "name": "Iadh Ounis",
+        "screen_name": "iadh",
+        "location": "Glasgow",
+        "description": "Professor; Information Retrieval Researcher;  Former Director of Knowledge Exchange @ SICSA",
+        "followers_count": 2179
+    },
+    {
+        "id": 78969930,
+        "name": "Mounia Lalmas",
+        "screen_name": "mounialalmas",
+        "location": "London",
+        "description": "Research Director @ Spotify",
+        "followers_count": 4379
+    },
+    {
+        "id": 15159648,
+        "name": "Feminist Killjoy",
+        "screen_name": "vanessa_murdock",
+        "location": "Seattle",
+        "description": "applied research at big tech companies. feminist killjoy. she/her. my opinions are my own and do not reflect those of my employer.",
+        "followers_count": 1204
+    },
+    {
+        "id": 61471363,
+        "name": "Kalina Bontcheva",
+        "screen_name": "kbontcheva",
+        "location": "UK",
+        "description": "Working on #misinformation, disinformation, @WeVerify,  @PhemeEU, text analytics, social media analytics, and information extraction. All views are my own",
+        "followers_count": 2098
+    },
+    {
+        "id": 700831074,
+        "name": "Annalisa Johnson",
+        "screen_name": "shefunilife",
+        "location": "Sheffield, UK",
+        "description": "A different member of @sheffielduni each week. This week features Annalisa Johnson, Postgraduate student at the Department of Journalism Studies.",
+        "followers_count": 4725
+    },
+    {
+        "id": 22264722,
+        "name": "Tom North",
+        "screen_name": "tomnorth1",
+        "location": "",
+        "description": "Just a city boy, born and raised in north bradford",
+        "followers_count": 104
+    },
+    {
+        "id": 407078554,
+        "name": "SU Box Office",
+        "screen_name": "SUBoxOffice",
+        "location": "Sheffield",
+        "description": "The official Box Office twitter feed for Sheffield Students' Union. Follow us for event and sales updates.",
+        "followers_count": 2369
+    },
+    {
+        "id": 2730942694,
+        "name": "Sports Officer Morse",
+        "screen_name": "SUSportsOfficer",
+        "location": "Sheffield University",
+        "description": "Here to represent University of Sheffield students on sporting issues, health and wellbeing! sports.officer@sheffield.ac.uk. Passionate about #SPORTFORALL ◼️🔶",
+        "followers_count": 731
+    },
+    {
+        "id": 1460232649,
+        "name": "Stephen Dodsworth",
+        "screen_name": "_stephen93",
+        "location": "",
+        "description": "University of Sheffield",
+        "followers_count": 54
+    },
+    {
+        "id": 2414805859,
+        "name": "Andreas Papamichail",
+        "screen_name": "a_papamichail",
+        "location": "London, England",
+        "description": "Lecturer in Global Health & IR @QMPoliticsIR Interested in how health and security interact, critical cosmopolitanism, and more. He/him.",
+        "followers_count": 859
+    },
+    {
+        "id": 348958940,
+        "name": "Adnan Mansoor",
+        "screen_name": "AdnanMansoor561",
+        "location": "United Kingdom",
+        "description": "Writer. Actor (To be). MJ Dancer.\n\n\nWatch Thriller CURSE right here \nhttps://t.co/UXPO95KOko",
+        "followers_count": 2105
+    },
+    {
+        "id": 18834839,
+        "name": "Hoopsfix 🇬🇧🏀",
+        "screen_name": "Hoopsfix",
+        "location": "London, England",
+        "description": "Basketball coverage straight out of the UK.\n\nFollow @HoopsfixWomen for the UK women's game!\n\nSign up to our newsletter - the best content emailed weekly 👇",
+        "followers_count": 17533
+    },
+    {
+        "id": 263725500,
+        "name": "Sport Sheffield",
+        "screen_name": "SportSheffield",
+        "location": "S10 2TY",
+        "description": "Sport Sheffield is responsible for sport and fitness at the University of Sheffield. There is something for everyone!   https://t.co/o6CX3MkyK6",
+        "followers_count": 3682
+    },
+    {
+        "id": 20518470,
+        "name": "Steve Cox",
+        "screen_name": "coxy321",
+        "location": "Sheffield, England",
+        "description": "Operations Manager at Goalball UK. Keen runner, lover of sport and HUFC fan.",
+        "followers_count": 373
+    },
+    {
+        "id": 289572207,
+        "name": "Martin Garner",
+        "screen_name": "martin_garner",
+        "location": "UK",
+        "description": "IoT analyst.",
+        "followers_count": 986
+    },
+    {
+        "id": 32034710,
+        "name": "Ravi Shankar",
+        "screen_name": "Ravi_Shankar_",
+        "location": "Palo Alto, CA",
+        "description": "#DataVirtualization #MDM #DataQuality & #DataGovernance Expert; #CMO @Denodo; Views/ Tweets/ Opinions - my own!",
+        "followers_count": 2556
+    },
+    {
+        "id": 20780570,
+        "name": "Geoff Blaber",
+        "screen_name": "geoffblaber",
+        "location": "Bay Area, California",
+        "description": "mobile / tech analyst for @CCSInsight. dad, cyclist and snow lover. ramblings my own",
+        "followers_count": 3067
+    },
+    {
+        "id": 23569036,
+        "name": "Nitish Mittal",
+        "screen_name": "NitishMittal",
+        "location": "London, United Kingdom",
+        "description": "Analyst focused on the intersection of digital technology & business. Hope to live in a world where chicken can cross roads without having aims questioned",
+        "followers_count": 1140
+    },
+    {
+        "id": 208595633,
+        "name": "Bob O'Donnell",
+        "screen_name": "bobodtech",
+        "location": "Foster City, CA",
+        "description": "President & Chief Analyst at TECHnalysis Research, covering smart devices, #5G #IoT #AI #VR #AR & smart cars. Book author, speaker, musician & @NotreDame grad.",
+        "followers_count": 4808
+    },
+    {
+        "id": 580979351,
+        "name": "Jack Gold",
+        "screen_name": "jckgld",
+        "location": "Boston",
+        "description": "Principal analyst & founder at J. Gold Associates, LLC. Veteran Tech Analyst covering #Mobile #IoT #EoT #Security #Cloud #AR #VR #EUC #AI #Enterprise and more.",
+        "followers_count": 2526
+    },
+    {
+        "id": 233103411,
+        "name": "Nicholas McQuire",
+        "screen_name": "nickmcquire",
+        "location": "London, United Kingdom",
+        "description": "Analyst, IT Advisor and SVP/Head of Enterprise Research at @CCSInsight. Board Member of @CMDSP. Focus on AI, cloud, security and workplace transformation.",
+        "followers_count": 9815
+    },
+    {
+        "id": 548586960,
+        "name": "Yolanda M. Davis",
+        "screen_name": "YolandaMDavis",
+        "location": "Atlanta, GA",
+        "description": "Principal Engineer @ Cloudera. ❤️ God, Mr. Davis, Family, and Friends. A Leader Through Service. Purpose by Design. #DrWhoFan #TOCCoFounder #ApacheNiFiPMC",
+        "followers_count": 1335
+    },
+    {
+        "id": 2912093825,
+        "name": "Mary Frances Berry",
+        "screen_name": "DrMFBerry",
+        "location": "Washington, DC",
+        "description": "Mary Frances Berry is the Geraldine R. Segal Professor of American Social Thought & History at Penn and the author of 13 books. #HistoryTeachesUstoResist",
+        "followers_count": 5724
+    },
+    {
+        "id": 839321,
+        "name": "Charlene Li",
+        "screen_name": "charleneli",
+        "location": "San Francisco, California",
+        "description": "Helping leaders thrive with #disruption as a Principal Analyst at Altimeter, a Prophet Company. Author Engaged Leader & Open Leadership, Co-Author Groundswell",
+        "followers_count": 104893
+    },
+    {
+        "id": 1039611643649507328,
+        "name": "SERC_EcoConservation",
+        "screen_name": "SERC_EcoConserv",
+        "location": "Edgewater, MD",
+        "description": "We are the Ecosystem Conservation Lab at @SmithsonianEnv, studying how terrestrial ecosystems respond to global change factors.\nhttps://t.co/5CLQO8AmLv",
+        "followers_count": 321
+    },
+    {
+        "id": 781867266853965824,
+        "name": "Conservation Commons",
+        "screen_name": "SI_Conservation",
+        "location": "",
+        "description": "The @smithsonian Conservation Commons works to achieve outcomes consequential to sustaining Earth’s biodiversity and ecosystems. Legal: https://t.co/dJOZaQ7IFu",
+        "followers_count": 51
+    },
+    {
+        "id": 1083058203527651328,
+        "name": "SmithsonianWLS",
+        "screen_name": "SmithsonianWls",
+        "location": "",
+        "description": "Science serving people and nature.\n\n30 scientists 🔎 20 partners 👐 13 countries\nJoin our conservation network!\n\nhttps://t.co/oHrluJeUFI | https://t.co/M8B9aTcxaR",
+        "followers_count": 632
+    },
+    {
+        "id": 55655729,
+        "name": "Golden Triangle BID",
+        "screen_name": "GoldenTriDC",
+        "location": "Washington, DC",
+        "description": "The Golden Triangle is the heart of DC’s business district, stretching from the front yard of the White House to Dupont Circle.",
+        "followers_count": 5201
+    },
+    {
+        "id": 17544803,
+        "name": "NY Public Library",
+        "screen_name": "nypl",
+        "location": "Bronx, Manhattan, Staten Island",
+        "description": "Inspire lifelong learning, advance knowledge, strengthen communities. Got a question? Tweet @AskNYPL, call 917-ASK-NYPL, or send message https://t.co/oxmGfvVb5y",
+        "followers_count": 2548556
+    },
+    {
+        "id": 17879538,
+        "name": "DC Public Library",
+        "screen_name": "dcpl",
+        "location": "Washington, DC",
+        "description": "The official twitter account of the DC Public Library.",
+        "followers_count": 24030
+    },
+    {
+        "id": 1002249052443037696,
+        "name": "SERCMarineDisease",
+        "screen_name": "SERCMarDisease",
+        "location": "Edgewater, MD",
+        "description": "We study parasites, the diseases they cause, and how both impact life in coastal waters.  \nLegal: https://t.co/dJOZaQ7IFu",
+        "followers_count": 301
+    },
+    {
+        "id": 32520240,
+        "name": "JFK Library",
+        "screen_name": "JFKLibrary",
+        "location": "Columbia Point, Boston MA",
+        "description": "Dedicated to the memory of our nation's 35th president. This account is run by the JFK Library Foundation. Follow JFK's words in today's world @JohnFKennedy.",
+        "followers_count": 92937
+    },
+    {
+        "id": 23092890,
+        "name": "U.S. Census Bureau",
+        "screen_name": "uscensusbureau",
+        "location": "",
+        "description": "Serving as the nation's leading and trusted source of quality data about its people and economy. Our privacy policy: https://t.co/LgzQOb2x6o.",
+        "followers_count": 117613
+    },
+    {
+        "id": 23493483,
+        "name": "WA History Museum",
+        "screen_name": "HistoryMuseum",
+        "location": "Tacoma, WA",
+        "description": "The Washington State Historical Society is home to the Washington State History Museum and Research Center in Tacoma and Historic Lord Mansion in Olympia.",
+        "followers_count": 10908
+    },
+    {
+        "id": 19836800,
+        "name": "carolynne costello",
+        "screen_name": "madameplaid",
+        "location": "Brooklyn & Cambridge",
+        "description": "brand advisor, ice cream cone enthusiast, and oxford comma user. #brand #strategy",
+        "followers_count": 650
+    },
+    {
+        "id": 1318529465274781703,
+        "name": "Sarah Mennicken",
+        "screen_name": "SarahMennicken",
+        "location": "Zurich, Switzerland",
+        "description": "",
+        "followers_count": 10
+    },
+    {
+        "id": 2998344635,
+        "name": "Ashley Olivia Graham",
+        "screen_name": "hereigraham",
+        "location": "NYC",
+        "description": "User Research @Spotify | @IBM @HowardU @parsonsdesign @thenewschool alum",
+        "followers_count": 235
+    },
+    {
+        "id": 188259731,
+        "name": "Marco de Sá",
+        "screen_name": "Marco_de_Sa",
+        "location": "New York, USA",
+        "description": "User Research & Data Science @Spotify!",
+        "followers_count": 954
+    },
+    {
+        "id": 448458664,
+        "name": "chingsung.",
+        "screen_name": "chingsungx",
+        "location": "New York, NY",
+        "description": "I paint faces on data points ||  research PM @ spotify https://t.co/ZmCgtO1sTf",
+        "followers_count": 307
+    },
+    {
+        "id": 6188962,
+        "name": "Jason Q. Ng",
+        "screen_name": "jasonqng",
+        "location": "NYC",
+        "description": "work: @spotify, research: @CitizenLab, formerly @ColumbiaSIPA @Yale lecturer, Google Policy Fellow, author BLOCKED ON WEIBO",
+        "followers_count": 1830
+    },
+    {
+        "id": 15500367,
+        "name": "Raz Schwartz",
+        "screen_name": "razsc",
+        "location": "London, England",
+        "description": "Senior Product Insights manager @Spotify, formerly research manager AR/VR at Facebook. PhD in STS/HCI.",
+        "followers_count": 1009
+    },
+    {
+        "id": 11383492,
+        "name": "David Whittle",
+        "screen_name": "mokus",
+        "location": "London, Stockholm, NYC",
+        "description": "UX research, data & design. Interested in stuff, things, and people. Currently user research/data science lead @Spotify",
+        "followers_count": 597
+    },
+    {
+        "id": 3001655519,
+        "name": "Aggeliki Chrysafidi",
+        "screen_name": "aggelux",
+        "location": "New York",
+        "description": "User Research @Spotify | Procrastinating and rationalizing",
+        "followers_count": 498
+    },
+    {
+        "id": 20452017,
+        "name": "Aasish Pappu",
+        "screen_name": "aasishp",
+        "location": "New York City",
+        "description": "Researcher @ Spotify",
+        "followers_count": 285
+    },
+    {
+        "id": 320568816,
+        "name": "Anubrata Das @ HCOMP 2020",
+        "screen_name": "d_anubrata",
+        "location": "Austin, TX",
+        "description": "Doctoral Student, University of Texas at Austin. Information Access, Natural Language Processing, Human Computation. \nAll opinions are my own",
+        "followers_count": 372
+    },
+    {
+        "id": 14915653,
+        "name": "Kurt Luther",
+        "screen_name": "kurtluther",
+        "location": "Arlington, VA",
+        "description": "Associate Professor @VT_CS @VTEngineering @VT_History. Senior Editor @mil_images_mag. Previously @cmuhcii @gtcomputing @TechPurdue.",
+        "followers_count": 2266
+    },
+    {
+        "id": 3024793302,
+        "name": "Andrew",
+        "screen_name": "Andrew_WXY",
+        "location": "香港",
+        "description": "Thinking 🤔💭 about 'digital exhaust' 🚮💸.\n. \n. \nA WIP;\nBSF4, FastAPI/Flask, HTTPie, NLP/NER, NoSQL, R, SpaCy, TDD.",
+        "followers_count": 739
+    },
+    {
+        "id": 87985586,
+        "name": "Bárbara Poblete",
+        "screen_name": "bpoblete",
+        "location": "Santiago, Chile",
+        "description": "Científica experta en Redes Sociales, Datos, IA y Computación, Dra. Profesora Asociada en @dccuchile @fcfm_uchile @IMFDChile (opiniones personales)",
+        "followers_count": 8815
+    },
+    {
+        "id": 1006419421244678144,
+        "name": "Greta Thunberg",
+        "screen_name": "GretaThunberg",
+        "location": "Sverige",
+        "description": "Climate and environmental activist with Asperger’s \nBorn at 375ppm\n#ClimateStrike #FridaysForFuture #SchoolStrike4Climate #FaceTheClimateEmergency",
+        "followers_count": 4451538
+    },
+    {
+        "id": 813286,
+        "name": "Barack Obama",
+        "screen_name": "BarackObama",
+        "location": "Washington, DC",
+        "description": "Dad, husband, President, citizen.",
+        "followers_count": 126640780
+    },
+    {
+        "id": 1210596212140892160,
+        "name": "John Langford",
+        "screen_name": "JohnCLangford",
+        "location": "New York (mostly)",
+        "description": "Solving Machine Learning at Microsoft in New York.\nhttps://t.co/6jXLMNxvqX president under exponentiation. \nhttps://t.co/Z0c52g0SuQ makes RL real.\nhttps://t.co/IF5RoOjbPa for thinking out loud.",
+        "followers_count": 5660
+    },
+    {
+        "id": 19968025,
+        "name": "Kate Crawford",
+        "screen_name": "katecrawford",
+        "location": "New York City",
+        "description": "New book: ATLAS OF AI (Yale, 2021) 🌎  Co-founder @AINowInstitute, NYU | Senior Principal Researcher MSR | Chair of AI and Justice, École Normale Supérieure |",
+        "followers_count": 67023
+    },
+    {
+        "id": 1189744336415723520,
+        "name": "SIGIR 2021 | MONTRÉAL, QUÉBEC",
+        "screen_name": "SIGIRConf",
+        "location": "Montréal, Québec",
+        "description": "#SIGIR2021",
+        "followers_count": 754
+    },
+    {
+        "id": 22385548,
+        "name": "Jane Wang",
+        "screen_name": "janexwang",
+        "location": "London, England",
+        "description": "Senior research scientist at DeepMind, thinking about thinking.",
+        "followers_count": 27955
+    },
+    {
+        "id": 717348489215262724,
+        "name": "ECIR 2017",
+        "screen_name": "ecir2017",
+        "location": "Aberdeen, Scotland",
+        "description": "ECIR is the premier European conference for research in Information Retrieval.  Robert Gordon University is delighted to host the 39th edition in April 2017.",
+        "followers_count": 289
+    },
+    {
+        "id": 22026924,
+        "name": "Gianni Amati",
+        "screen_name": "GianniAmati",
+        "location": "Rome",
+        "description": "Big Data Analysis; Search & sentiment analysis.",
+        "followers_count": 453
+    },
+    {
+        "id": 561201648,
+        "name": "Domonkos Tikk",
+        "screen_name": "domonkostikk",
+        "location": "",
+        "description": "",
+        "followers_count": 532
+    },
+    {
+        "id": 242868086,
+        "name": "Fernando Diaz",
+        "screen_name": "diazf_acm",
+        "location": "Montréal, Québec",
+        "description": "",
+        "followers_count": 3190
+    },
+    {
+        "id": 206743057,
+        "name": "Jordan Boyd-Graber",
+        "screen_name": "boydgraber",
+        "location": "Zürich, CH",
+        "description": "Trivia Nerd, NLP Researcher, Dad.  \n\n(he/him, but big proponent of they/them generally)",
+        "followers_count": 2547
+    },
+    {
+        "id": 237738266,
+        "name": "Guillaume Cabanac",
+        "screen_name": "gcabanac",
+        "location": "University of Toulouse, France",
+        "description": "Associate Professor of Computer Science. Information Retrieval • Scientometrics • Meta-Research — Latest work: https://t.co/JPx3HanLu4 and @_Nano_Bubbles",
+        "followers_count": 1669
+    },
+    {
+        "id": 582161546,
+        "name": "Alessandro  Vespignani",
+        "screen_name": "alexvespi",
+        "location": "@northeastern ",
+        "description": "Network & Data Science, Computational Epidemiology, Complex Systems",
+        "followers_count": 24810
+    },
+    {
+        "id": 21308312,
+        "name": "Richard McCreadie",
+        "screen_name": "richardm_",
+        "location": "Glasgow, Scotland",
+        "description": "Lecturer (Univ. of Glasgow): Specialized in real-time search, event detection, summarization, social media, crowdsourcing, big streaming data",
+        "followers_count": 827
+    },
+    {
+        "id": 18417153,
+        "name": "Evangelos Kanoulas",
+        "screen_name": "ekanou",
+        "location": "Amsterdam, The Netherlands",
+        "description": "Professor at the University of Amsterdam",
+        "followers_count": 807
+    },
+    {
+        "id": 3246646347,
+        "name": "www2016",
+        "screen_name": "www2016ca",
+        "location": "Montréal, Québec",
+        "description": "This is the official account of the 25th International World Wide Web Conference (WWW2016), which will take place on the 11-15 April 2016 in Montreal, Canada.",
+        "followers_count": 700
+    }
+]

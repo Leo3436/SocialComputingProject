@@ -1,0 +1,42 @@
+[
+    {
+        "id": 18932422,
+        "name": "mizzaro",
+        "screen_name": "mizzaro",
+        "location": "",
+        "description": "",
+        "followers_count": 158
+    },
+    {
+        "id": 132646210,
+        "name": "Damiano Spina",
+        "screen_name": "damiano10",
+        "location": "Melbourne, Australia",
+        "description": "PhD in Computer Science. Lecturer at @RMIT, @rmit_csit, @rmit_cidda, @AdmsCentre.\nCamaleão, Capoeira ACDP @ACDP_Australia. Percussionist at @Wombatuque.",
+        "followers_count": 793
+    },
+    {
+        "id": 15750573,
+        "name": "Michael Soprano",
+        "screen_name": "Miccighel_",
+        "location": "Chiusaforte",
+        "description": "University Life, Computer Science, Photography, Reading, Gaming, Comics. PhD Student at the University of Udine. That's me.",
+        "followers_count": 334
+    },
+    {
+        "id": 19659370,
+        "name": "Gianluca Demartini",
+        "screen_name": "eglu81",
+        "location": "Brisbane, Queensland",
+        "description": "Associate Professor in #datascience at @UQ_EAIT working on human-in-the-loop #AI, #bias, #fakenews, and #bigdata analytics",
+        "followers_count": 540
+    },
+    {
+        "id": 3036907250,
+        "name": "Kevin Roitero",
+        "screen_name": "KevinRoitero",
+        "location": "",
+        "description": "",
+        "followers_count": 102
+    }
+]
